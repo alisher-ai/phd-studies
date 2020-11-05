@@ -18,7 +18,7 @@ Data Efficient Deep Learning
 - **TD**: Task Design
 
 ## Experiment ideas:
-### FA
+### [FA](https://github.com/alisher0717/phd-studies/blob/main/Fourier-Domain.md)
 * Phase/Wavelet scrambling
 * Mask design
 * Hybrid Images
