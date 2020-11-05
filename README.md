@@ -5,3 +5,5 @@
 
 # Schema
 
+<p align="center"> <img src="https://github.com/alisher0717/phd-studies/blob/main/figures/schema.png" width="1000" /> </p>
+
