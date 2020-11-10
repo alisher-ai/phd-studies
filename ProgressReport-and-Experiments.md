@@ -1,7 +1,9 @@
 ## 2020.11.04 - 2020.11.11
 
-Partial Fourier frequency images
+### Partial Fourier frequency images
+### Dataset: fashion MNIST
 
+### Experiments
 1. feed the images in different domains: 
  - f^0 (pixel images) --> CNN1 
  - f^0.5 (partial fourier domain) --> CNN2
