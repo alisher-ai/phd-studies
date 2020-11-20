@@ -6,3 +6,5 @@ Here I am compiling the papers I have read with brief explanations.
 - [x] 3. [Face Recognition Using Multi-viewpoint Patterns for Robot Vision | Kazuhiro Fukui and Osamu Yamaguchi
  | ISRR2003](http://www.cvlab.cs.tsukuba.ac.jp/~kfukui/english/epapers/isrrModifiedwithHeaders.pdf)
 - [x] 4. [Face Recognition with the Multiple Constrained Mutual Subspace Method | Masashi Nishiyama, Osamu Yamaguchi, and Kazuhiro Fukui | 2005](http://www.cvlab.cs.tsukuba.ac.jp/~kfukui/english/epapers/AVBPA05.pdf) 
+- [x] 5. [A framework for 3D object recognition using the kernel constrained mutual subspace method | Kazuhiro Fukui, Bj ̈orn Stenger, and Osamu Yamaguchi | ACCV2006](http://www.cvlab.cs.tsukuba.ac.jp/~kfukui/english/epapers/accv2006.pdf)
+
