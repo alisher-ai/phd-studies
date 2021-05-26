@@ -23,10 +23,11 @@ In this folder I am collecting all the documents related to paper submissions.
       - ResNeXt-101 achieved 78.4% average accuracy on the Kinetics test set. 
       - Kinetics pretrained simple 3D architectures outperforms complex 2D architectures, and the pretrained ResNeXt-101 achieved 94.5% and 70.2% on UCF-101 and HMDB-51, respectively.
 
-5.  [CODE: Convolutional Autoencoder](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/autoencoder/convolutional-autoencoder)
-6.  [BLOG POST: Deep Learning for Videos: A 2018 Guide to Action Recognition](https://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review)
-7.  [PAPER: Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)
-8.  [CODE: 3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch)
+4.  [CODE: Convolutional Autoencoder](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/autoencoder/convolutional-autoencoder)
+5.  [BLOG POST: Deep Learning for Videos: A 2018 Guide to Action Recognition](https://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review)
+6.  [PAPER: Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)
+7.  [CODE: 3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch)
+8.  [PAPER: Human Action Recognition using Factorized Spatio-Temporal Convolutional Networks](https://arxiv.org/pdf/1510.00562.pdf)
 
 
 
