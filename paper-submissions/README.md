@@ -31,7 +31,7 @@ In this folder I am collecting all the documents related to paper submissions.
       - Factorization of spatio-temporal convolutional networks is proposed
       - Factorize the original 3D convolution kernel learning as a sequential process of learning 2D spatial kernels in the lower layers (called spatial convolutional layers), followed by learning 1D temporal kernels in the upper layers (called temporal convolutional layers).
       - Introduced a novel transformation and permutation (T-P) operator to form an intermediate layer of the proposed network --> handling 1D convolution (which supposed to deal with temporal dimension) with 2D convolutions in T-F (time and filters) dimensions.
-      - 
+      - To address the issue of sequence alignment, we pro- pose a training and inference strategy based on sam- pling multiple video clips from a given action video sequence.
 
 
 
