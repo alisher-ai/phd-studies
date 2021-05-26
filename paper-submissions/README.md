@@ -18,10 +18,16 @@ In this folder I am collecting all the documents related to paper submissions.
       - 3D ResNets pre-trained on Kinetics dataset
       - Train deeper networks such as ResNet to get better performance and not to overfit 
 3.  [PAPER: Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](https://arxiv.org/pdf/1711.09577.pdf)
-4.  [CODE: Convolutional Autoencoder](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/autoencoder/convolutional-autoencoder)
-5.  [BLOG POST: Deep Learning for Videos: A 2018 Guide to Action Recognition](https://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review)
-6.  [PAPER: Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)
-7.  
+      - examines the various, from shallow to very deep, 3D CNN architectures' performance on current video datasets. 
+      - ResNet-18: significant overfitting for UCF-101, HMDB-51, and ActivityNet but not for Kinetics.
+      - The Kinetics dataset has sufficient data for training of deep 3D CNNs, and enables training of up to 152 ResNets layers
+      - ResNeXt-101 achieved 78.4% average accuracy on the Kinetics test set. 
+      - Kinetics pre- trained simple 3D architectures outperforms complex 2D architectures, and the pretrained ResNeXt-101 achieved 94.5% and 70.2% on UCF-101 and HMDB-51, respectively.
+
+5.  [CODE: Convolutional Autoencoder](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/autoencoder/convolutional-autoencoder)
+6.  [BLOG POST: Deep Learning for Videos: A 2018 Guide to Action Recognition](https://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review)
+7.  [PAPER: Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)
+8.  
 
 
 
