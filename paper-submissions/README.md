@@ -28,6 +28,10 @@ In this folder I am collecting all the documents related to paper submissions.
 6.  [PAPER: Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)
 7.  [CODE: 3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch)
 8.  [PAPER: Human Action Recognition using Factorized Spatio-Temporal Convolutional Networks](https://arxiv.org/pdf/1510.00562.pdf)
+      - Factorization of spatio-temporal convolutional networks is proposed
+      - Factorize the original 3D convolution kernel learning as a sequential process of learning 2D spatial kernels in the lower layers (called spatial convolutional layers), followed by learning 1D temporal kernels in the upper layers (called temporal convolutional layers).
+      - Introduced a novel transformation and permutation (T-P) operator to form an intermediate layer of the proposed network --> handling 1D convolution (which supposed to deal with temporal dimension) with 2D convolutions in T-F (time and filters) dimensions.
+      - 
 
 
 
