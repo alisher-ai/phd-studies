@@ -16,6 +16,7 @@ In this folder I am collecting all the documents related to paper submissions.
   
 2.  [Learning Spatio-Temporal Features with 3D Residual Networks for Action Recognition](https://arxiv.org/pdf/1708.07632.pdf)
 3.  [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](https://arxiv.org/pdf/1711.09577.pdf)
+4.  [Convolutional Autoencoder | code](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/autoencoder/convolutional-autoencoder)
 
 
 
