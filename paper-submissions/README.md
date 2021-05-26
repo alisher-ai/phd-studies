@@ -24,3 +24,8 @@ In this folder I am collecting all the documents related to paper submissions.
 1. [D3TW: Discriminative Differentiable Dynamic Time Warping for Weakly Supervised Action Alignment and Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_D3TW_Discriminative_Differentiable_Dynamic_Time_Warping_for_Weakly_Supervised_Action_CVPR_2019_paper.pdf)
 2. [The Globally Optimal Reparameterization Algorithm: an Alternative to Fast Dynamic Time Warping for Action Recognition in Video Sequences](https://arxiv.org/abs/1807.05485)
 3. 
+
+
+## Contributions
+1. train 3D CNN with 2D CNN feature maps rather than using raw spatial data. This method would store the temporal information as it is and decrease the spatial dimensions of the data.
+2. DTW + 3D CNN --> classification 
