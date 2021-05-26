@@ -18,6 +18,8 @@ In this folder I am collecting all the documents related to paper submissions.
 3.  [PAPER: Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](https://arxiv.org/pdf/1711.09577.pdf)
 4.  [CODE: Convolutional Autoencoder](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/autoencoder/convolutional-autoencoder)
 5.  [BLOG POST: Deep Learning for Videos: A 2018 Guide to Action Recognition](https://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review)
+6.  [PAPER: Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)
+7.  
 
 
 
