@@ -9,5 +9,7 @@ In this folder I am collecting all the documents related to paper submissions.
   - temporal transition layer
   - extend (2D) DenseNet with 3D filters and pooling kernels
   - transfer the knowledge from 2D CNN to initialize 3D CNN
-  - 
+
+<p align="center"> <img src="https://github.com/alisher-ai/phd-studies/blob/main/figures/temporal-3d-convnets.png" width="500" /> </p>
+  
 2.  
