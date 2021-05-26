@@ -7,16 +7,17 @@ In this folder I am collecting all the documents related to paper submissions.
 - DTW
 
 ## Related works - 3D CNN
-1. [Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification](https://arxiv.org/pdf/1711.08200.pdf)
+1. [PAPER: Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification](https://arxiv.org/pdf/1711.08200.pdf)
       - temporal transition layer
       - extend (2D) DenseNet with 3D filters and pooling kernels
       - transfer the knowledge from 2D CNN to initialize 3D CNN
 
 <p align="center"> <img src="https://github.com/alisher-ai/phd-studies/blob/main/figures/temporal-3d-convnets.png" width="500" /> </p>
   
-2.  [Learning Spatio-Temporal Features with 3D Residual Networks for Action Recognition](https://arxiv.org/pdf/1708.07632.pdf)
-3.  [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](https://arxiv.org/pdf/1711.09577.pdf)
-4.  [Convolutional Autoencoder | code](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/autoencoder/convolutional-autoencoder)
+2.  [PAPER: Learning Spatio-Temporal Features with 3D Residual Networks for Action Recognition](https://arxiv.org/pdf/1708.07632.pdf)
+3.  [PAPER: Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](https://arxiv.org/pdf/1711.09577.pdf)
+4.  [CODE: Convolutional Autoencoder](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/autoencoder/convolutional-autoencoder)
+5.  [BLOG POST: Deep Learning for Videos: A 2018 Guide to Action Recognition](https://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review)
 
 
 
