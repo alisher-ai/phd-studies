@@ -3,8 +3,10 @@ In this folder I am collecting all the documents related to paper submissions.
 # Human Action Recognition
 
 - Datasets: UCF-101 | HMDB-51 | Kinetics | AVA | ActivityNet | STAIR | HACS | NTU
+- 3D CNN
+- DTW
 
-## Related researchs
+## Related works - 3D CNN
 1. [Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification](https://arxiv.org/pdf/1711.08200.pdf)
       - temporal transition layer
       - extend (2D) DenseNet with 3D filters and pooling kernels
@@ -12,4 +14,12 @@ In this folder I am collecting all the documents related to paper submissions.
 
 <p align="center"> <img src="https://github.com/alisher-ai/phd-studies/blob/main/figures/temporal-3d-convnets.png" width="500" /> </p>
   
-2.  
+2.  [Learning Spatio-Temporal Features with 3D Residual Networks for Action Recognition](https://arxiv.org/pdf/1708.07632.pdf)
+3.  [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](https://arxiv.org/pdf/1711.09577.pdf)
+
+
+
+## Related works - DTW
+1. [D3TW: Discriminative Differentiable Dynamic Time Warping for Weakly Supervised Action Alignment and Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_D3TW_Discriminative_Differentiable_Dynamic_Time_Warping_for_Weakly_Supervised_Action_CVPR_2019_paper.pdf)
+2. [The Globally Optimal Reparameterization Algorithm: an Alternative to Fast Dynamic Time Warping for Action Recognition in Video Sequences](https://arxiv.org/abs/1807.05485)
+3. 
