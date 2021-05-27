@@ -7,4 +7,5 @@ Here I am compiling the papers I have read with brief explanations.
  | ISRR2003](http://www.cvlab.cs.tsukuba.ac.jp/~kfukui/english/epapers/isrrModifiedwithHeaders.pdf)
 - [x] 4. [Face Recognition with the Multiple Constrained Mutual Subspace Method | Masashi Nishiyama, Osamu Yamaguchi, and Kazuhiro Fukui | 2005](http://www.cvlab.cs.tsukuba.ac.jp/~kfukui/english/epapers/AVBPA05.pdf) 
 - [x] 5. [A framework for 3D object recognition using the kernel constrained mutual subspace method | Kazuhiro Fukui, Bj ̈orn Stenger, and Osamu Yamaguchi | ACCV2006](http://www.cvlab.cs.tsukuba.ac.jp/~kfukui/english/epapers/accv2006.pdf)
+- [x] 6. [Grassmann Discriminant Analysis: a Unifying View on Subspace-Based Learning | Jihun Hamm, Daniel D. Lee](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1504&context=ese_papers)  
 
